@@ -1,2 +1,4 @@
 # onlineOCR
-Without installation on your computer. Recognize text and characters from PDF scanned documents (including multipage files), photographs and digital camera captured images.
+This website is able to read all the text written in an image using OCR (Optical Character Recognition). It uses Flask (back-end) and as front-end framework Material Design Vue JS, Vuetifyjs.
+
+
